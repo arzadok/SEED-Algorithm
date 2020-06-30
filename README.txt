@@ -1,4 +1,4 @@
- 
+*Note: All the files can be found in the SEED Algorithm.zip file.
 
 Team number: xohw20_117
 
