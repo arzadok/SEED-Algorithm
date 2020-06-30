@@ -51,9 +51,10 @@ Directories:
  python code + contraints - python code file, XDC file.
  Components - other components with testbenches that may be relevant.
  Documents - some documents, diagrams, pictures.
+ Verilog - relevant verilog code due to limit upload issue.
  
 files:
- README - the requested readme file.
+ README - the requested readme file. 
  SEED Algorithm report - Project report.
  
 
